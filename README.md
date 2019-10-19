@@ -36,4 +36,4 @@ Most of the commands used here are defined in the file `projectreportcommands.st
 * `\listoffigures` - Generates a list of all the figures
 
 
-For more info on $\LaTeX$ and more of its built in commands, click [here](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes).
+For more info on $ \LaTeX $ and more of its built in commands, click [here](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes).
