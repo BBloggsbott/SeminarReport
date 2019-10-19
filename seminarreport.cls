@@ -24,8 +24,6 @@
 
 \renewcommand\bibname{\LARGE References}
 
-
-\usepackage{projectreportcommands}
 \usepackage{fontspec}
 \renewcommand{\contentsname}{
 	\begin{center}
